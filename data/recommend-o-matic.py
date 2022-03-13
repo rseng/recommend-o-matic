@@ -2,7 +2,7 @@
 
 # recommend-o-matic tool to validate and parse exports to generate json for
 # the Recommend-o-matic web interface. Use reccommend-o-matic --help
-# for usage, or see the project README https://github.com/stanford-rc/recommend-o-matic
+# for usage, or see the project README https://github.com/rseng/recommend-o-matic
 
 import argparse
 import json

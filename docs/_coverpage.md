@@ -30,6 +30,6 @@ section.cover .cover-main>p:last-child a {
 }
 </style>
 
-[GitHub](https://github.com/stanford-rc/recommend-o-matic/)
+[GitHub](https://github.com/rseng/recommend-o-matic/)
 [Get Started](#recommend-o-matic)
-[Demo](https://stanford-rc.github.io/recommend-o-matic/demo/stanford-compute-grid/)
+[Demo](https://rseng.github.io/recommend-o-matic/demo/stanford-compute-grid/)
